@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="13px" viewBox="0 0 20 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Atoms / icons / Glyph / Trend_up</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="16 6 18.29 8.29 13.41 13.17 9.41 9.17 2 16.59 3.41 18 9.41 12 13.41 16 19.71 9.71 22 12 22 6"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.797061012">
+        <g id="Home-Copy" transform="translate(-35.000000, -459.000000)">
+            <g id="Sidebar" transform="translate(0.000000, 183.000000)">
+                <g id="Menu" transform="translate(0.000000, 164.000000)">
+                    <g id="Atoms-/-icons-/-Glyph-//-Trend_up" transform="translate(33.000026, 106.657702)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <g id="Atoms-/-Colors-/-Gray_Medium" mask="url(#mask-2)" fill="#ACACAC" fill-rule="evenodd">
+                            <rect id="Rectangle-Copy-3" x="0" y="0" width="24" height="24"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
