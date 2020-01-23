@@ -1,0 +1,3 @@
+This is a new file to adding contents to the Git Course
+And, this is a new change
+This is only a file that needs to be modified, it is just a pretext. s
